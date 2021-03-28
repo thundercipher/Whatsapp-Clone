@@ -1,4 +1,4 @@
-package com.tanay.thundercipher.whatsappclone;
+package com.iceka.whatsappclone;
 
 import org.junit.Test;
 
